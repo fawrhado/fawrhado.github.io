@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Archiv"
+date:   2023-08-13 22:00:00 +0200
+tags: announcement
+---
+Das Archiv dieser Website kann von nun an [hier](/archive) eingesehen werden.
+
+**Es lebe die Freie Apfelweinrepublik Homberg an der Ohm!**
