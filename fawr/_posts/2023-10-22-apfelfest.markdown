@@ -23,7 +23,9 @@ Alle Reservisten der SRA und FAWRHadO treten wieder in den aktiven Dienst ein.
 ## Artikel 3
 
 (1) Alle Bürgerinnen und Bürger der SRA und der FAWRHadO im wehrfähigen Alter können durch den Nationalrat der Freien Apfelweinrepublik zum Dienst in den Streitkräften verpflichtet werden.
+
 (2) Die Dauer dieses Dienstes darf 24 Monate nicht überschreiten.
+
 (3) Alternativ zum Kriegsdienst darf ein Ersatzdienst bei einer der kriegswichtigen humanitären Einrichtungen geleistet werden.
 
 <br />
